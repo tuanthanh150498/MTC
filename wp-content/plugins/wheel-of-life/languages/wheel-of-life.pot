@@ -1,0 +1,1175 @@
+# Copyright (C) 2023 Kraft Plugins
+# This file is distributed under the same license as the Wheel of Life plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wheel of Life 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wheeloflife\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-26T08:16:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wheel-of-life\n"
+
+#. Plugin Name of the plugin
+#: includes/Wheel_Of_Life_Admin.php:218
+#: app/build/globalApp.js:1
+msgid "Wheel of Life"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wheeloflife.pro/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Wheel of Life assessment tool helps clients quickly visualize every vital aspect of their lives and helps them understand which area of their life can be improved to bring in the perfect balance they need."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kraft Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kraftplugins.com"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:118
+#: includes/functions/AjaxFunctions.php:277
+msgid "Saved successfully . "
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:163
+#: includes/functions/AjaxFunctions.php:179
+#: includes/functions/AjaxFunctions.php:201
+#: includes/functions/AjaxFunctions.php:223
+#: includes/functions/AjaxFunctions.php:240
+#: includes/functions/AjaxFunctions.php:264
+msgid "Something went wrong ! Please try again"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:198
+msgid "Wheel trashed successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:198
+msgid "Submission trashed successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:220
+msgid "Wheel restored successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:220
+msgid "Submission restored successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:236
+msgid "Wheel deleted successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:236
+msgid "Submission deleted successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:257
+msgid "Copy of "
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:266
+msgid "Wheel copied successfully . "
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:302
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:306
+msgid "Your Assessment report has been created!"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:310
+msgid "Dear {email},"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:311
+msgid "Thank you for taking the Assessment. You can view your assessment information via the link below."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:312
+msgid "My Wheel Report"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:313
+msgid "Thank you."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:322
+msgid "Email sent failed. Please try again later."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:324
+#: includes/functions/AjaxFunctions.php:331
+msgid "Email sent successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:359
+#: includes/functions/AjaxFunctions.php:376
+msgid "Something went wrong! Please try again"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:384
+msgid "Report Saved Successfully."
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:51
+msgid "Is your life out of balance? Need a coach?"
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:52
+msgid "I am a Certified Coach with experience of over 5 years. I can help you transform your life and get it run smoothly."
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:53
+msgid "Schedule an Appointment"
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:59
+#: app/build/globalApp.js:1
+msgid "Services"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:204
+msgid "Wheels of Life"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:228
+msgid "Wheel of Life - Global Settings"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:236
+msgid "Wheel of Life - Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:266
+#: includes/Wheel_Of_Life_Admin.php:267
+#: app/build/editor.js:1
+msgid "Start Assessment"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:285
+msgid "Enter Wheel Description..."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:62
+msgctxt "post type general name"
+msgid "Wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:63
+msgctxt "post type singular name"
+msgid "Wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:64
+msgctxt "admin menu"
+msgid "Wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:65
+msgctxt "add new on admin bar"
+msgid "Wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:66
+msgctxt "wheel"
+msgid "Add New"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:67
+msgid "Add New wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:68
+msgid "New wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:69
+msgid "Edit wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:70
+msgid "View wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:71
+msgid "All wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:72
+msgid "Search wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:73
+msgid "Parent wheels:"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:74
+msgid "No wheels found."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:75
+msgid "No wheel found in Trash."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:80
+msgid "Description."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:192
+msgctxt "post type general name"
+msgid "Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:193
+msgctxt "post type singular name"
+msgid "Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:194
+msgctxt "admin menu"
+msgid "Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:195
+msgctxt "add new on admin bar"
+msgid "Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:196
+msgctxt "Submission"
+msgid "Add New"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:197
+msgid "Add New Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:198
+msgid "New Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:199
+msgid "Edit Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:200
+msgid "View Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:201
+#: app/build/globalApp.js:1
+msgid "All Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:202
+msgid "Search Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:203
+msgid "Parent Submissions:"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:204
+msgid "No Submissions found."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:205
+msgid "No Submission found in Trash."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:210
+msgid "This is where wheel submissions are stored."
+msgstr ""
+
+#: templates/single-wheel-submissions.php:16
+msgid "My Wheel of Life"
+msgstr ""
+
+#: templates/single-wheel-submissions.php:20
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Wheel Submission No: #%d"
+msgstr ""
+
+#: templates/single-wheel-submissions.php:27
+#: templates/single-wheel-submissions.php:98
+#: templates/single-wheel-submissions.php:224
+msgid "Assessment taken on: "
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Option can't be edited for current device"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Hideout"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Triangles"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Bubbles"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Wiggle"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Polka Dots"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Overlaping Circles"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Texture"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Diagonal Lines"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Rain"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Stripes"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Diagonal Stripes"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Intersecting Circles"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Bank Note"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Zig Zag"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Endless Clouds"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Honey Comb"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Cross Stripes"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Autumn"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Select Image"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Change Image"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Background Repeat"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Background Size"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Auto"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Cover"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Contain"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Background Attachment"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Scroll"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Fixed"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Inherit"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Image Overlay Color"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Initial"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Color"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Gradient"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Image"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Pattern"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Background Color"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Inherited"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Enable/Disable"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Horizontal Offset"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Vertical Offset"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Blur"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Spread"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Adjust"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "None"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Default"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Top"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Bottom"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Left"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Right"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/frontendComponents.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Cancel"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel Meter"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Likert"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Slider"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Min Value"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Max Value"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "CTA Type"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Global CTA"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Global setting is for the CTA setting from global settings."
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Call to Action"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Done"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel of life Settings"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Add Wheel"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Create Wheels"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel."
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheels"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel Settings"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Legend Color"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Show Icon"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Choose Icon"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Required"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Skip Text"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Skip this area - it's not important to me"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Link"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Click and add title"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel description"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel Row"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Buttons"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Choose Form"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Popup Form"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Popup Type"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Full Screen"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Modal"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Button Settings"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Button Width"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Flexible"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Full"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Button Border"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Button Alignment"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Rounded Button"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Botton Radius"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Colors"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Text Color"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Button Background Type"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Solid Color"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Background Gradient"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Spacing"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+msgid "Margin"
+msgstr ""
+
+#: app/build/blocks.js:1
+#: app/build/globalApp.js:1
+msgid "Padding"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Take Assessment"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Wheel of Life - Button"
+msgstr ""
+
+#: app/build/blocks.js:1
+msgid "Add a customizable button."
+msgstr ""
+
+#: app/build/editor.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Copy Shortcode"
+msgstr ""
+
+#: app/build/editor.js:1
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Copied"
+msgstr ""
+
+#: app/build/editor.js:1
+msgid "Wheel Usage"
+msgstr ""
+
+#: app/build/editor.js:1
+msgid "Display Mode"
+msgstr ""
+
+#: app/build/editor.js:1
+#: app/build/globalApp.js:1
+msgid "Button Label"
+msgstr ""
+
+#: app/build/editor.js:1
+msgid "Popup Button Label"
+msgstr ""
+
+#: app/build/editor.js:1
+msgid "Wheel Shortcode"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Get the report"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Email My Wheel"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Share the report"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Email my Wheel"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Please enter the email address where you would like to send your assessment result:"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Enter your full name"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Enter your email"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "No email supplied. Please enter valid email."
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Send"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "View My Wheel"
+msgstr ""
+
+#: app/build/frontendComponents.js:1
+#: app/build/wheelsFrontend.js:1
+msgid "Next"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Enabled"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Disabled"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "View"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Edit"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Duplicate"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Trash"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Restore"
+msgstr ""
+
+#: app/build/globalApp.js:1
+#: app/build/uiComponents.js:1
+msgid "Delete"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Title"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Shortcode"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Created"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Status"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Sorry! No data found."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Published"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "items selected"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Items deleted successfully."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "No items selected."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Sorry! No Trash data found."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "All Wheels"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Draft"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Social Share"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Call To Action"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "General"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Background"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Alignment"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "CTA Title"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Font Color"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "CTA Description"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "CTA Buttons"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Primary Button"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Secondary Button"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Others"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Title and description"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Use call to action at the end of the accessment for the user engagement."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Call to Action Title"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Call to Action Description"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Action Buttons"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Set the action buttons and page redirections."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Button Link"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Enable the option to open the page in new tab."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Enable the option if the link has any sponsorship."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Enable the option if the link has downloadable files."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Style and Customization"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Change colors, font-sizes and more to make your CTA appealing to your site visitors."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Call to Action Preview"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "This is the preview of the CTA in your wheel. Click on the Customize button below to change the design styles."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Customize"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Save Settings"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Settings"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Enable the social media platforms to share the results."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Facebook"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Twitter"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Linked In"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Reddit"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Email"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "All Wheel of Life"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Submissions"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Create New Wheel"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Support"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Documentation"
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Upgrade to Pro version to add user dashboard, manage profiles, configure email templates, analytics dashboard and more exciting features."
+msgstr ""
+
+#: app/build/globalApp.js:1
+msgid "Upgrade Now"
+msgstr ""
+
+#: app/build/wheelsFrontend.js:1
+msgid "Error: No wheel selected or wheel ID missing!!"
+msgstr ""

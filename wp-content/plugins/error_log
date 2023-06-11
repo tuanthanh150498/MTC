@@ -1,0 +1,24 @@
+[02-Sep-2022 15:50:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php on line 69
+[02-Sep-2022 15:50:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php on line 69
+[11-Sep-2022 23:01:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php on line 69
+[11-Sep-2022 23:01:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php on line 69
+[21-Sep-2022 18:25:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php on line 69
+[21-Sep-2022 18:25:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cuunonha/demo4.cuunonhaitac.com/wp-content/plugins/hello.php on line 69
